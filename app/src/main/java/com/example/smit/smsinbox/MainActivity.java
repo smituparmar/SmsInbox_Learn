@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
         inbox=(Button)findViewById(R.id.button);
         send=(Button)findViewById(R.id.button2);
 
+        //HEY
+
+
         inbox.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
