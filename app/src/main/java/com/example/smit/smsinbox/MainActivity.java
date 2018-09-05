@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         //raha
 
-        //againHeo
+        //againHero
 
         inbox.setOnClickListener(new View.OnClickListener() {
             @Override
