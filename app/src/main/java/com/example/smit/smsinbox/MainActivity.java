@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //sbkabjabfa
-        //FBAABJFA
+        //FBAABJFAd
         send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
