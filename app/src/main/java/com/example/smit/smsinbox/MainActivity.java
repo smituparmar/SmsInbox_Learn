@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         });
         //sbkabjabfa
 
-        //yepyjert
+        //yepyjertfk
 
         send.setOnClickListener(new View.OnClickListener() {
             @Override
