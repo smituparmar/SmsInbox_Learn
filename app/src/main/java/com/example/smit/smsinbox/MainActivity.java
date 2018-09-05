@@ -32,6 +32,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //sbkabjabfa
+
+
+        //yenkawfn
+
         send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
